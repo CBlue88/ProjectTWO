@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project TWO\Project TWO\bin\Debug\Project TWO.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project TWO\Project TWO\bin\Debug\Project TWO.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project TWO\Project TWO\bin\Debug\Project TWO.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project TWO\Project TWO\obj\Debug\Project TWO.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project TWO\Project TWO\obj\Debug\Project TWO.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Project TWO\Project TWO\obj\Debug\Project TWO.pdb
